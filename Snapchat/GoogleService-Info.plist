@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>208733313850-mfff62rcl6hp8ou9nikpj8lpatqnadps.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.208733313850-mfff62rcl6hp8ou9nikpj8lpatqnadps</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDd3UsgQX7Q9sQj4W_yW_3CUgMjPdqbPs8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>208733313850</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Beatriz-Souza.Snapchat</string>
+	<key>PROJECT_ID</key>
+	<string>snapchat-5ecad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snapchat-5ecad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:208733313850:ios:3aa7864cb6f9098c918e03</string>
+</dict>
+</plist>
